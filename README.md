@@ -1,6 +1,6 @@
 # NET ERP API
 
-Aplicación desarrollada por Net. Allcorrect 
+Aplicación desarrollada por Andres Betancourt
 
 ## IDE Recomendado
 
